@@ -50,7 +50,7 @@ status-website:
   logoUrl: https://winterco.org/wp-content/uploads/2020/07/dc93e8bf55b0efd7a0b6c74c4f62a426e98fd5e3.png
   name: WinterCo. Status
   introTitle: "**Winter Coalition** IT Services"
-  introMessage: This is the system status for the Winter Coalition IT services, both websites and 
+  introMessage: This is the system status for the Winter Coalition IT services, both websites and messaging server.
   navbar:
     - title: Status
       href: /
