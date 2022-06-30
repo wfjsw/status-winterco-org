@@ -1,7 +1,7 @@
 url: https://jira.winterco.org
-status: down
-code: 403
-responseTime: 56
-lastUpdated: 2022-06-30T17:31:02.602Z
+status: up
+code: 200
+responseTime: 1327
+lastUpdated: 2022-06-30T17:32:48.767Z
 startTime: Thu Jun 30 2022 17:22:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
