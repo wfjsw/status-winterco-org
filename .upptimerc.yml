@@ -21,6 +21,11 @@ sites:
     url: https://jira.winterco.org
   - name: Waitlist
     url: https://waitlist.winterco.org
+  - name: Waitlist (API)
+    url: https://waitlist.winterco.org/api/auth/whoami
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Short Links (API)
     url: https://go.winterco.org
   - name: Short Links (Link)
