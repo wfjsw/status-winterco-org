@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/winterco.org",
     "slug": "portal",
     "status": "up",
-    "uptime": "85.19%",
-    "uptimeDay": "85.19%",
-    "uptimeWeek": "85.19%",
-    "uptimeMonth": "85.19%",
-    "uptimeYear": "85.19%",
+    "uptime": "85.69%",
+    "uptimeDay": "85.69%",
+    "uptimeWeek": "85.69%",
+    "uptimeMonth": "85.69%",
+    "uptimeYear": "85.69%",
     "time": 501,
     "timeDay": 501,
     "timeWeek": 501,
@@ -25,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/forums.winterco.org",
     "slug": "forums",
     "status": "up",
-    "uptime": "85.06%",
-    "uptimeDay": "85.06%",
-    "uptimeWeek": "85.06%",
-    "uptimeMonth": "85.06%",
-    "uptimeYear": "85.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 408,
     "timeWeek": 408,
     "timeMonth": 408,
     "timeYear": 408,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SeAT",
@@ -45,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/seat.winterco.org",
     "slug": "se-at",
     "status": "up",
-    "uptime": "84.76%",
-    "uptimeDay": "84.76%",
-    "uptimeWeek": "84.76%",
-    "uptimeMonth": "84.76%",
-    "uptimeYear": "84.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 760,
     "timeDay": 760,
     "timeWeek": 760,
     "timeMonth": 760,
     "timeYear": 760,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
@@ -65,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/wiki.winterco.org",
     "slug": "wiki",
     "status": "down",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 574,
     "timeDay": 574,
     "timeWeek": 574,
@@ -85,19 +81,17 @@
     "icon": "https://favicons.githubusercontent.com/books.winterco.org",
     "slug": "book-stack",
     "status": "up",
-    "uptime": "84.38%",
-    "uptimeDay": "84.38%",
-    "uptimeWeek": "84.38%",
-    "uptimeMonth": "84.38%",
-    "uptimeYear": "84.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 273,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Data Intelligence",
@@ -105,19 +99,17 @@
     "icon": "https://favicons.githubusercontent.com/bi.winterco.org",
     "slug": "data-intelligence",
     "status": "up",
-    "uptime": "84.23%",
-    "uptimeDay": "84.23%",
-    "uptimeWeek": "84.23%",
-    "uptimeMonth": "84.23%",
-    "uptimeYear": "84.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 222,
     "timeWeek": 222,
     "timeMonth": 222,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Confluence",
@@ -125,19 +117,17 @@
     "icon": "https://favicons.githubusercontent.com/confluence.winterco.org",
     "slug": "confluence",
     "status": "up",
-    "uptime": "84.07%",
-    "uptimeDay": "84.07%",
-    "uptimeWeek": "84.07%",
-    "uptimeMonth": "84.07%",
-    "uptimeYear": "84.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 357,
     "timeWeek": 357,
     "timeMonth": 357,
     "timeYear": 357,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jira",
@@ -145,19 +135,17 @@
     "icon": "https://favicons.githubusercontent.com/jira.winterco.org",
     "slug": "jira",
     "status": "up",
-    "uptime": "83.91%",
-    "uptimeDay": "83.91%",
-    "uptimeWeek": "83.91%",
-    "uptimeMonth": "83.91%",
-    "uptimeYear": "83.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 814,
     "timeDay": 814,
     "timeWeek": 814,
     "timeMonth": 814,
     "timeYear": 814,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Waitlist",
@@ -165,19 +153,17 @@
     "icon": "https://favicons.githubusercontent.com/waitlist.winterco.org",
     "slug": "waitlist",
     "status": "up",
-    "uptime": "83.76%",
-    "uptimeDay": "83.76%",
-    "uptimeWeek": "83.76%",
-    "uptimeMonth": "83.76%",
-    "uptimeYear": "83.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Waitlist (API)",
@@ -185,19 +171,17 @@
     "icon": "https://favicons.githubusercontent.com/waitlist.winterco.org",
     "slug": "waitlist-api",
     "status": "up",
-    "uptime": "19.14%",
-    "uptimeDay": "19.14%",
-    "uptimeWeek": "19.14%",
-    "uptimeMonth": "19.14%",
-    "uptimeYear": "19.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 101,
     "timeWeek": 101,
     "timeMonth": 101,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Short Links (API)",
@@ -205,19 +189,17 @@
     "icon": "https://favicons.githubusercontent.com/go.winterco.org",
     "slug": "short-links-api",
     "status": "up",
-    "uptime": "83.62%",
-    "uptimeDay": "83.62%",
-    "uptimeWeek": "83.62%",
-    "uptimeMonth": "83.62%",
-    "uptimeYear": "83.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 407,
     "timeWeek": 407,
     "timeMonth": 407,
     "timeYear": 407,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Short Links (Link)",
@@ -225,11 +207,11 @@
     "icon": "https://favicons.githubusercontent.com/wnt2.co",
     "slug": "short-links-link",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
@@ -281,18 +263,16 @@
     "icon": "https://favicons.githubusercontent.com/bugreport.indexyz.me",
     "slug": "bug-monitor-third-party",
     "status": "up",
-    "uptime": "79.54%",
-    "uptimeDay": "79.54%",
-    "uptimeWeek": "79.54%",
-    "uptimeMonth": "79.54%",
-    "uptimeYear": "79.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1579,
     "timeDay": 1579,
     "timeWeek": 1579,
     "timeMonth": 1579,
     "timeYear": 1579,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
