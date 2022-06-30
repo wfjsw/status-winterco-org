@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/winterco.org",
     "slug": "portal",
     "status": "up",
-    "uptime": "85.69%",
-    "uptimeDay": "85.69%",
-    "uptimeWeek": "85.69%",
-    "uptimeMonth": "85.69%",
-    "uptimeYear": "85.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 501,
     "timeDay": 501,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
-    "dailyMinutesDown": {
-      "2022-06-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forums",
@@ -61,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/wiki.winterco.org",
     "slug": "wiki",
     "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 574,
     "timeDay": 574,
     "timeWeek": 574,
     "timeMonth": 574,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2022-06-30": 11
+      "2022-06-30": 221
     }
   },
   {
@@ -207,18 +205,18 @@
     "icon": "https://favicons.githubusercontent.com/wnt2.co",
     "slug": "short-links-link",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2022-06-30": 11
+      "2022-06-30": 221
     }
   },
   {
@@ -262,17 +260,19 @@
     "url": "https://bugreport.indexyz.me",
     "icon": "https://favicons.githubusercontent.com/bugreport.indexyz.me",
     "slug": "bug-monitor-third-party",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1579,
     "timeDay": 1579,
     "timeWeek": 1579,
     "timeMonth": 1579,
     "timeYear": 1579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
