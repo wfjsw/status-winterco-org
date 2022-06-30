@@ -1,31 +1,69 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: wfjsw # Your GitHub organization or username, where this repository lives
+repo: status-winterco-org # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Portal
+    url: https://winterco.org
+  - name: Forums
+    url: https://forums.winterco.org
+  - name: SeAT
+    url: https://seat.winterco.org
+  - name: Wiki
+    url: https://wiki.winterco.org
+  - name: BookStack
+    url: https://books.winterco.org
+  - name: Data Intelligence
+    url: https://bi.winterco.org
+  - name: Confluence
+    url: https://confluence.winterco.org
+  - name: Jira
+    url: https://jira.winterco.org
+  - name: Waitlist
+    url: https://waitlist.winterco.org
+  - name: Short Links (API)
+    url: https://go.winterco.org
+  - name: Short Links (Link)
+    url: https://wnt2.co
+  - name: Mumble
+    check: "tcp-ping"
+    url: 123.99.197.241
+    port: 64738
+  - name: Message Forwarder
+    check: "tcp-ping"
+    url: $ADDR_FORWARDER
+    port: 22
+  - name: Bug Monitor (Third-Party)
+    url: https://bugreport.indexyz.me
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.winterco.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://winterco.org/wp-content/uploads/2020/07/dc93e8bf55b0efd7a0b6c74c4f62a426e98fd5e3.png
+  name: WinterCo. Status
+  introTitle: "**Winter Coalition** IT Services"
+  introMessage: This is the system status for the Winter Coalition IT services, both websites and 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Support
+      href: https://support.winterco.org/portal/2/create/75
+    - title: Wiki
+      href: https://wiki.winterco.org/
+  customHeadHtml: >
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X306LDX7MY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-X306LDX7MY');
+    </script>
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+user-agent: wfjsw
