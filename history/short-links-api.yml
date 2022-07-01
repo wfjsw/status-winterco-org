@@ -1,7 +1,7 @@
-url: https://go.winterco.org
+url: https://go.winterco.org/rest/health
 status: up
 code: 200
-responseTime: 614
-lastUpdated: 2022-07-01T03:13:18.788Z
+responseTime: 261
+lastUpdated: 2022-07-01T03:39:31.728Z
 startTime: Thu Jun 30 2022 17:22:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
