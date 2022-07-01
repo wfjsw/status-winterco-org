@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/wiki.winterco.org",
     "slug": "wiki",
     "status": "up",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 529,
     "timeDay": 529,
     "timeWeek": 529,
@@ -217,7 +217,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-07-01": 193,
+      "2022-07-01": 194,
       "2022-06-30": 398
     }
   },
