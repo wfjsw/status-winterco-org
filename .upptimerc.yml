@@ -11,6 +11,11 @@ sites:
     url: https://seat.winterco.org
   - name: Wiki
     url: https://wiki.winterco.org
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 404
   - name: BookStack
     url: https://books.winterco.org
   - name: Data Intelligence
