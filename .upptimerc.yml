@@ -32,7 +32,7 @@ sites:
       - 200
       - 401
   - name: Short Links (API)
-    url: https://go.winterco.org
+    url: https://go.winterco.org/rest/health
   - name: Short Links (Link)
     url: https://wnt2.co
   - name: Mumble
