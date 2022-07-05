@@ -5,12 +5,16 @@ repo: status-winterco-org # The name of this repository
 sites:
   - name: Portal
     url: https://winterco.org
+    icon: https://s1.wp.com/i/favicon.ico?v=1447321881
   - name: Forums
     url: https://forums.winterco.org
+    icon: https://www.discourse.org/a/img/favicon.png
   - name: SeAT
     url: https://seat.winterco.org
+    icon: https://avatars.githubusercontent.com/u/13915359
   - name: Wiki
     url: https://wiki.winterco.org
+    icon: https://www.dokuwiki.org/lib/tpl/dokuwiki/images/apple-touch-icon.png
     expectedStatusCodes:
       - 200
       - 301
@@ -18,26 +22,55 @@ sites:
       - 404
   - name: BookStack
     url: https://books.winterco.org
+    icon: https://www.bookstackapp.com/images/favicon-32x32.png
   - name: Data Intelligence
     url: https://bi.winterco.org
+    icon: https://www.metabase.com/images/favicon.ico
   - name: Confluence
     url: https://confluence.winterco.org
+    icon: https://confluence.atlassian.com/staticassets/4.1.1/dist/common/images/product-icons/confluence.svg
   - name: Jira
     url: https://jira.winterco.org
+    icon: https://confluence.atlassian.com/staticassets/4.1.1/dist/common/images/product-icons/jira.svg
   - name: Waitlist
     url: https://waitlist.winterco.org
+    icon: https://t-d-f.one/favicon.ico
   - name: Waitlist (API)
     url: https://waitlist.winterco.org/api/auth/whoami
+    icon: https://t-d-f.one/favicon.ico
     expectedStatusCodes:
       - 200
       - 401
   - name: Short Links (API)
     url: https://go.winterco.org/rest/health
+    icon: https://shlink.io/favicon.svg
   - name: Short Links (Link)
     url: https://wnt2.co
-  - name: Mumble
+    icon: https://shlink.io/favicon.svg
+  - name: Mumble (CN)
+    icon: https://www.mumble.info/favicon.ico
     check: "tcp-ping"
     url: 123.99.197.241
+    port: 64738
+  - name: Mumble (US)
+    icon: https://www.mumble.info/favicon.ico
+    check: "tcp-ping"
+    url: us.keepstar.net
+    port: 64738
+  - name: Mumble (JP)
+    icon: https://www.mumble.info/favicon.ico
+    check: "tcp-ping"
+    url: jp.keepstar.net
+    port: 64738
+  - name: Mumble (HK)
+    icon: https://www.mumble.info/favicon.ico
+    check: "tcp-ping"
+    url: hk.keepstar.net
+    port: 64738
+  - name: Mumble (HK-L)
+    icon: https://www.mumble.info/favicon.ico
+    check: "tcp-ping"
+    url: hk-lite.keepstar.net
     port: 64738
   - name: Message Forwarder
     check: "tcp-ping"
@@ -45,6 +78,7 @@ sites:
     port: 22
   - name: Bug Monitor (Third-Party)
     url: https://bugreport.indexyz.me
+    icon: https://avatars.githubusercontent.com/u/1396951
 
 status-website:
   theme: night
