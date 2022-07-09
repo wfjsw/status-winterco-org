@@ -47,10 +47,15 @@ sites:
   - name: Short Links (Link)
     url: https://wnt2.co
     icon: https://shlink.io/favicon.svg
+  - name: Jabber (CN)
+    icon: https://xmpp.org/favicon-32x32.png
+    check: "tcp-ping"
+    url: jabber.winterco.cn
+    port: 5222
   - name: Mumble (CN)
     icon: https://www.mumble.info/favicon.ico
     check: "tcp-ping"
-    url: 123.99.197.241
+    url: mumble.winterco.cn
     port: 64738
   - name: Mumble (US)
     icon: https://www.mumble.info/favicon.ico
