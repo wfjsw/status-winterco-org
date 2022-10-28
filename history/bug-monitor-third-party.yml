@@ -1,7 +1,7 @@
 url: https://bugreport.indexyz.me
-status: down
-code: 503
-responseTime: 526
-lastUpdated: 2022-10-28T21:24:18.248Z
+status: up
+code: 200
+responseTime: 1160
+lastUpdated: 2022-10-28T21:32:53.293Z
 startTime: Thu Jun 30 2022 17:23:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
