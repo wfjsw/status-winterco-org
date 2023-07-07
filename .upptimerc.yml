@@ -10,7 +10,7 @@ sites:
     url: https://forums.winterco.org
     icon: https://www.discourse.org/a/img/favicon.png
   - name: SeAT
-    url: https://seat.winterco.org
+    url: https://seat.winterco.space
     icon: https://avatars.githubusercontent.com/u/13915359
   - name: Wiki
     url: https://wiki.winterco.org
