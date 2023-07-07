@@ -6,9 +6,9 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 437,
     "timeDay": 328,
@@ -16,7 +16,6 @@
     "timeMonth": 361,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2023-07-06": 6,
       "2022-10-24": 45,
       "2022-08-06": 41,
       "2022-07-13": 750
@@ -352,18 +351,19 @@
     "icon": "https://www.mumble.info/favicon.ico",
     "slug": "mumble-us",
     "status": "down",
-    "uptime": "88.31%",
+    "uptime": "88.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.26%",
+    "uptimeYear": "88.25%",
     "time": 153,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-07-06": 1428,
+      "2023-07-07": 14,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -419,7 +419,7 @@
     "status": "up",
     "uptime": "95.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.57%",
+    "uptimeWeek": "61.83%",
     "uptimeMonth": "46.67%",
     "uptimeYear": "95.28%",
     "time": 183,
@@ -447,8 +447,7 @@
       "2023-06-16": 778,
       "2023-02-26": 752,
       "2023-02-25": 661,
-      "2022-08-04": 40,
-      "2022-07-07": 18
+      "2022-08-04": 40
     }
   },
   {
@@ -585,8 +584,7 @@
       "2022-07-12": 45,
       "2022-07-11": 20,
       "2022-07-09": 113,
-      "2022-07-08": 49,
-      "2022-07-07": 43
+      "2022-07-08": 49
     }
   }
 ]
