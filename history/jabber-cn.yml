@@ -1,7 +1,7 @@
 url: jabber.winterco.cn
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-05T04:57:44.875Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2023-09-05T05:24:30.472Z
 startTime: 2022-07-09T10:21:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
