@@ -47,6 +47,9 @@ sites:
   - name: Short Links (Link)
     url: https://wnt2.co
     icon: https://shlink.io/favicon.svg
+  - name: Learn@WinterCo
+    url: https://learn.winterco.org
+    icon: https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png
   - name: Jabber (CN)
     icon: https://xmpp.org/favicon-32x32.png
     check: "tcp-ping"
