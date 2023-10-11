@@ -286,7 +286,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 751,
+      "2023-10-11": 775,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -328,14 +328,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.25%",
+    "uptimeYear": "90.24%",
     "time": 368,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-10-11": 751,
+      "2023-10-11": 775,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -628,11 +628,11 @@
     "url": "$ADDR_FORWARDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "message-forwarder",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 190,
@@ -640,7 +640,7 @@
     "timeMonth": 203,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2023-10-11": 1
+      "2023-10-11": 24
     }
   },
   {
