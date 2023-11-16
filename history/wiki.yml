@@ -1,7 +1,7 @@
 url: https://wiki.winterco.org
-status: up
-code: 404
+status: down
+code: 500
 responseTime: 281
-lastUpdated: 2023-11-16T14:45:21.678Z
+lastUpdated: 2023-11-16T14:51:09.825Z
 startTime: 2022-06-30T17:22:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
