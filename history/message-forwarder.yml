@@ -1,7 +1,7 @@
 url: $ADDR_FORWARDER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-15T23:03:07.117Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2023-12-16T00:23:09.937Z
 startTime: 2022-06-30T17:22:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
