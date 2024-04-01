@@ -64,22 +64,17 @@ sites:
   - name: Mumble (US)
     icon: https://www.mumble.info/favicon.ico
     check: "tcp-ping"
-    url: us.keepstar.net
+    url: us.mumble.winterco.cn
     port: 64738
   - name: Mumble (JP)
     icon: https://www.mumble.info/favicon.ico
     check: "tcp-ping"
-    url: jp.keepstar.net
+    url: jp.mumble.winterco.cn
     port: 64738
   - name: Mumble (HK)
     icon: https://www.mumble.info/favicon.ico
     check: "tcp-ping"
-    url: hk.keepstar.net
-    port: 64738
-  - name: Mumble (HK-L)
-    icon: https://www.mumble.info/favicon.ico
-    check: "tcp-ping"
-    url: hk-lite.keepstar.net
+    url: hk.mumble.winterco.cn
     port: 64738
   - name: Message Forwarder
     check: "tcp-ping"
