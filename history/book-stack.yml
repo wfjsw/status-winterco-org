@@ -1,7 +1,7 @@
 url: https://books.winterco.org
-status: up
-code: 200
-responseTime: 564
-lastUpdated: 2024-11-03T23:03:52.460Z
+status: down
+code: 500
+responseTime: 449
+lastUpdated: 2024-11-04T17:06:59.751Z
 startTime: 2022-06-30T17:22:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
