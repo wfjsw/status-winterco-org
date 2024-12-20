@@ -1,7 +1,7 @@
 url: us.mumble.winterco.cn
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-19T23:04:31.856Z
+status: up
+code: 200
+responseTime: 53
+lastUpdated: 2024-12-20T07:28:00.141Z
 startTime: 2022-07-05T09:29:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
