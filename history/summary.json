@@ -37,7 +37,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 556,
+    "time": 552,
     "timeDay": 494,
     "timeWeek": 551,
     "timeMonth": 529,
@@ -65,7 +65,7 @@
     "timeDay": 756,
     "timeWeek": 1445,
     "timeMonth": 1368,
-    "timeYear": 1159,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2024-09-07": 25,
       "2024-09-06": 229
@@ -108,7 +108,7 @@
     "timeDay": 568,
     "timeWeek": 473,
     "timeMonth": 451,
-    "timeYear": 465,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-04-09": 166,
       "2025-04-08": 1440,
@@ -136,7 +136,7 @@
     "timeDay": 387,
     "timeWeek": 303,
     "timeMonth": 374,
-    "timeYear": 399,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2025-01-26": 216,
       "2025-01-13": 157,
@@ -158,7 +158,7 @@
     "timeDay": 325,
     "timeWeek": 860,
     "timeMonth": 774,
-    "timeYear": 620,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-01-26": 208,
       "2025-01-13": 157,
@@ -185,7 +185,7 @@
     "timeMonth": 370,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2025-08-02": 1387,
+      "2025-08-02": 1395,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -434,7 +434,7 @@
     "timeDay": 315,
     "timeWeek": 253,
     "timeMonth": 175,
-    "timeYear": 170,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -474,7 +474,7 @@
     "timeDay": 871,
     "timeWeek": 991,
     "timeMonth": 996,
-    "timeYear": 960,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-01-26": 208,
       "2025-01-13": 157,
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 1387,
+      "2025-08-02": 1395,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -889,7 +889,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-08-02": 1387,
+      "2025-08-02": 1395,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -1447,7 +1447,7 @@
     "timeMonth": 0,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2025-08-02": 1387,
+      "2025-08-02": 1395,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -1781,11 +1781,11 @@
     "url": "hk.mumble.winterco.cn",
     "icon": "https://www.mumble.info/favicon.ico",
     "slug": "mumble-hk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "68.81%",
-    "uptimeWeek": "76.24%",
-    "uptimeMonth": "92.96%",
+    "uptimeDay": "68.28%",
+    "uptimeWeek": "76.16%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
     "time": 199,
     "timeDay": 218,
@@ -1793,7 +1793,7 @@
     "timeMonth": 202,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-08-02": 444,
+      "2025-08-02": 452,
       "2025-08-01": 345,
       "2025-07-31": 334,
       "2025-07-30": 211,
@@ -1840,7 +1840,7 @@
     "timeMonth": 209,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2025-08-02": 1387,
+      "2025-08-02": 1395,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
