@@ -185,7 +185,7 @@
     "timeMonth": 365,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2025-08-02": 1344,
+      "2025-08-02": 1357,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 1344,
+      "2025-08-02": 1357,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -889,7 +889,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-08-02": 1344,
+      "2025-08-02": 1357,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -1447,7 +1447,7 @@
     "timeMonth": 0,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2025-08-02": 1344,
+      "2025-08-02": 1357,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -1781,11 +1781,11 @@
     "url": "hk.mumble.winterco.cn",
     "icon": "https://www.mumble.info/favicon.ico",
     "slug": "mumble-hk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "69.90%",
+    "uptimeDay": "69.85%",
     "uptimeWeek": "76.39%",
-    "uptimeMonth": "92.89%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 199,
     "timeDay": 219,
@@ -1793,7 +1793,7 @@
     "timeMonth": 203,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-08-02": 429,
+      "2025-08-02": 430,
       "2025-08-01": 345,
       "2025-07-31": 334,
       "2025-07-30": 211,
@@ -1802,7 +1802,7 @@
       "2025-07-27": 404,
       "2025-07-26": 310,
       "2025-07-25": 311,
-      "2025-07-24": 112
+      "2025-07-24": 84
     }
   },
   {
@@ -1829,18 +1829,18 @@
     "icon": "https://avatars.githubusercontent.com/u/1396951",
     "slug": "bug-monitor-third-party",
     "status": "down",
-    "uptime": "68.73%",
+    "uptime": "68.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.37%",
+    "uptimeYear": "14.36%",
     "time": 842,
     "timeDay": 233,
     "timeWeek": 260,
     "timeMonth": 211,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-08-02": 1345,
+      "2025-08-02": 1357,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
