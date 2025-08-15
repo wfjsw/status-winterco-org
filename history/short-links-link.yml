@@ -1,7 +1,7 @@
 url: https://wnt2.co
-status: up
-code: 200
-responseTime: 1081
-lastUpdated: 2025-08-14T23:03:59.162Z
+status: down
+code: 503
+responseTime: 166
+lastUpdated: 2025-08-15T03:01:28.181Z
 startTime: 2022-06-30T17:22:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
