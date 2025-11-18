@@ -1,7 +1,7 @@
 url: https://waitlist.winterco.org
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2025-11-18T11:40:23.076Z
+status: down
+code: 500
+responseTime: 55
+lastUpdated: 2025-11-18T11:46:00.860Z
 startTime: 2022-06-30T17:22:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
