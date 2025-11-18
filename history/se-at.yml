@@ -1,7 +1,7 @@
 url: https://seat.winterco.space
-status: down
-code: 500
-responseTime: 67
-lastUpdated: 2025-11-18T11:45:53.361Z
+status: up
+code: 200
+responseTime: 1250
+lastUpdated: 2025-11-18T11:51:46.572Z
 startTime: 2022-06-30T17:22:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
