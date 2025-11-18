@@ -1,7 +1,7 @@
 url: https://winterco.org
-status: up
-code: 200
-responseTime: 997
-lastUpdated: 2025-11-18T12:59:49.515Z
+status: down
+code: 500
+responseTime: 195
+lastUpdated: 2025-11-18T13:16:52.074Z
 startTime: 2022-06-30T17:22:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
