@@ -1,7 +1,7 @@
 url: https://waitlist.winterco.org/api/auth/whoami
-status: down
-code: 502
-responseTime: 111
-lastUpdated: 2025-12-07T23:03:18.954Z
+status: up
+code: 401
+responseTime: 149
+lastUpdated: 2025-12-08T19:45:15.324Z
 startTime: 2022-06-30T17:31:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
