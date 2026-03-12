@@ -1,7 +1,7 @@
 url: https://bi.winterco.org
-status: up
-code: 200
-responseTime: 1071
-lastUpdated: 2026-03-11T23:05:37.682Z
+status: down
+code: 502
+responseTime: 946
+lastUpdated: 2026-03-12T21:45:40.917Z
 startTime: 2022-06-30T17:22:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
